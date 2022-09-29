@@ -1,0 +1,12 @@
+.input_button {
+    background-color: purple;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    width: 150px;
+    height: 40px;
+    cursor: pointer;
+}
+.input_button:hover {
+    background-color: rgb(156, 1, 156);
+}

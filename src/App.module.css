@@ -1,0 +1,17 @@
+.App {
+    width: 70%;
+    margin-inline: auto;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    position: relative;
+}
+.hidden_box { 
+    display: none;
+}
+@media only screen and (max-width: 600px) {
+    .App {
+		  width: 90%;
+    }
+}

@@ -1,0 +1,12 @@
+.column_form {
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+}
+.input_style {
+    height: 20px;
+    font-size: 17px;
+}
+.input_label {
+    font-weight: bold;
+}
